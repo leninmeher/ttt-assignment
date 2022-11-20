@@ -1,0 +1,26 @@
+.home-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.submit-button {
+  width: 200px;
+  height: 50px;
+  font-size: 24px;
+  background-color: #fff;
+  border-radius: 24px;
+  border-style: none;
+  box-shadow: rgba(0, 0, 0, 0.2) 0 3px 5px -1px,
+    rgba(0, 0, 0, 0.14) 0 6px 10px 0, rgba(0, 0, 0, 0.12) 0 1px 18px 0;
+  box-sizing: border-box;
+  color: #3c4043;
+  margin-top: 30px;
+}
+
+.submit-button:hover {
+  background: #f6f9fe;
+  color: #174ea6;
+  cursor: pointer;
+}
