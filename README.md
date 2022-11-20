@@ -8,3 +8,7 @@ This app fetches a file on clicking the submit button and dipslays the top 20 mo
 1. **Axios**: This library is used for fetching data from API.
 
 2. **ApexCharts**: This library is used to diplay histogram using the fetched data.
+
+
+#### Deployed Link ####
+https://magical-kulfi-feb087.netlify.app/
